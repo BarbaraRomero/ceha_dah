@@ -1,4 +1,6 @@
 # Vibe Coding para humanistas. Perdiendo el miedo a la IA
+iArtHisLab, Universidad de Málaga
+
 
 - Fecha: 7 de mayo de 2025
 - Horario: 16:00-18:00 – descanso – 18:30-20:30
