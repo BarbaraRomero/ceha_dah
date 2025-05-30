@@ -10,8 +10,10 @@ Aunque el taller se centrará en la utilización de Python como herramienta fund
 
 ## Link para el taller
 [Zoom](https://app.zoom.us/wc/join)
+
 Meeting ID: 923 7520 2704
-Passcode: 12345 
+
+Contraseña: 12345 
 ## Presentaciones
 se añadirán a esta página después del taller
 ## Material
