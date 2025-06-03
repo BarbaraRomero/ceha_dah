@@ -4,7 +4,9 @@ format: html
 toc: false
 ---
 
-<img src="images/banner.png" alt="Banner Vibe Coding para humanistas" style="width:100%; height:auto;"/>
+<div style="text-align: center;">
+  <img src="images/banner.png" alt="Banner Vibe Coding para humanistas" style="width:100%; max-width: 100%; height: auto;"/>
+</div>
 
 # Bienvenida
 
