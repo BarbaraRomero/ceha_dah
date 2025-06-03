@@ -1,1 +1,18 @@
+---
+title: "Sobre nosotros"
+format: html
+---
+
+# Sobre el grupo de investigación
+
 El taller está organizado por **iArtHisLab** de la **Universidad de Málaga**, un grupo dedicado a la exploración de la intersección entre las humanidades digitales, la inteligencia artificial y el análisis crítico.
+
+- **Nuria Rodríguez Ortega**: catedrática de Historia del Arte en la Universidad de Málaga.  
+- **Bárbara Romero Ferrón**: investigadora asociada al Provenance Lab, Leuphana University.  
+- **Ángel Lumbreras**: doctorando en Historia del Arte en la Universidad de Málaga.
+
+👉 Nuestro laboratorio: [https://iarthis.iarthislab.eu/](https://iarthis.iarthislab.eu/)  
+👉 Algunos de nuestros proyectos:  
+- [https://catedratelefonicauma.es/](https://catedratelefonicauma.es/)  
+- [https://github.com/Complexhibit-Project](https://github.com/Complexhibit-Project)
+
