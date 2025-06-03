@@ -1,0 +1,14 @@
+---
+title: "Materiales del curso"
+format: html
+---
+
+# Materiales del curso
+
+Aquí tienes los materiales que usaremos durante el taller:
+
+- [Descargar datasets](https://drive.google.com/drive/folders/1sn-wOU9E-ArKLASPcIoNgB_Nhz0Hl27S?usp=sharing)
+- [Google Colab](https://colab.research.google.com/)
+- [ChatGPT](https://chatgpt.com/)
+
+Las presentaciones se añadirán a esta página después del taller.

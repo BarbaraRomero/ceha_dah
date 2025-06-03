@@ -1,0 +1,15 @@
+---
+title: "Taller CEHA-DAH"
+author: "Barbara Romero"
+format: html
+---
+
+# Bienvenida
+
+Este es el cuaderno de Quarto para el taller de CEHA-DAH.
+
+Aquí puedes añadir más contenido, como listas, enlaces, o imágenes.
+
+```{python}
+# Código de ejemplo en Python
+print("¡Hola desde Quarto!")

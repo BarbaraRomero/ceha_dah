@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs  # esta línea para que se genere en la carpeta docs
+  output-dir: docs 
 
 website:
   title: "Vibe Coding para Humanistas"
