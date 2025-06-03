@@ -1,6 +1,7 @@
 ---
 title: "Materiales del curso"
 format: html
+toc: false
 ---
 
 Aquí tienes los materiales que usaremos durante el taller:
