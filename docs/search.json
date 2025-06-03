@@ -14,6 +14,20 @@
     "text": "Si no quieres descargar la aplicación de Zoom, puedes acceder directamente desde tu navegador siguiendo estos pasos:\n1 - Haz clic en el enlace de zoom y copia y pega el Meeting ID, y la contraseña si fuese necesaria.\n2 - Cuando aparezca la ventana para “Abrir Zoom Meetings”, haz clic en “Cancelar” si no quieres usar la aplicación.\n3 - Debajo verás la opción “¿Problemas con la aplicación de Zoom? Únase desde su navegador” o un enlace que dice “Únase desde su navegador”. Haz clic allí.\n4 - Ingresa tu nombre y acepta los términos de uso.\n5 - Haz clic en “Unirse”.\n6 - Permite el uso de tu micrófono y cámara si es necesario.\n¡Y listo! Estarás dentro del taller usando solo tu navegador."
   },
   {
+    "objectID": "sobre-nosotros.html",
+    "href": "sobre-nosotros.html",
+    "title": "Vibe Coding para Humanistas",
+    "section": "",
+    "text": "El taller está organizado por iArtHisLab de la Universidad de Málaga, un grupo dedicado a la exploración de la intersección entre las humanidades digitales, la inteligencia artificial y el análisis crítico."
+  },
+  {
+    "objectID": "materiales-curso.html",
+    "href": "materiales-curso.html",
+    "title": "Materiales del curso",
+    "section": "",
+    "text": "Materiales del curso\nAquí tienes los materiales que usaremos durante el taller:\n\nGoogle Colab\nChatGPT\n\nLas presentaciones se añadirán a esta página después del taller."
+  },
+  {
     "objectID": "workshop_intro.html",
     "href": "workshop_intro.html",
     "title": "Taller CEHA-DAH",
