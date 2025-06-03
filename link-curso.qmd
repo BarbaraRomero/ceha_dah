@@ -1,0 +1,28 @@
+---
+title: "Link para el curso"
+format: html
+---
+
+# Accede al taller por Zoom
+
+👉 [Únete al taller en Zoom](https://app.zoom.us/wc/join)
+
+- **Meeting ID:** 923 7520 2704  
+- **Contraseña:** 12345
+
+---
+
+## Guía rápida: Cómo usar Zoom desde el navegador
+
+Si no quieres descargar la aplicación de Zoom, puedes acceder directamente desde tu navegador siguiendo estos pasos:
+
+1 - Haz clic en el enlace de zoom y copia y pega el Meeting ID, y la contraseña si fuese necesaria.  
+2 - Cuando aparezca la ventana para "Abrir Zoom Meetings", haz clic en **"Cancelar"** si no quieres usar la aplicación.  
+3 - Debajo verás la opción **"¿Problemas con la aplicación de Zoom? Únase desde su navegador"** o un enlace que dice **"Únase desde su navegador"**. Haz clic allí.  
+4 - Ingresa tu nombre y acepta los términos de uso.  
+5 - Haz clic en **"Unirse"**.  
+6 - Permite el uso de tu micrófono y cámara si es necesario.  
+
+¡Y listo! Estarás dentro del taller usando solo tu navegador.
+
+---

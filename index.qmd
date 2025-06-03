@@ -1,0 +1,20 @@
+---
+title: "Vibe Coding para humanistas. Perdiendo el miedo a la IA"
+format: html
+---
+
+# Bienvenida
+
+¡Bienvenidos al taller **Vibe Coding para humanistas** organizado por **iArtHisLab, Universidad de Málaga**!
+
+**Fecha:** 5 de junio de 2025  
+**Horario:** 16:00-18:00 – descanso – 18:30-20:30
+
+Este taller está diseñado especialmente para humanistas interesados en iniciarse en el uso de la IA generativa para análisis de datos, textos e imágenes.
+
+Aunque se usará **Python**, no necesitas conocimientos previos de programación. Aprenderás a usar la IA como una herramienta accesible y útil.
+
+## Regístrate
+
+Por favor, regístrate para recibir la información y actualizaciones del curso: 
+
