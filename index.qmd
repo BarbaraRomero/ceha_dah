@@ -4,6 +4,8 @@ format: html
 toc: false
 ---
 
+<img src="images/banner.png" alt="Banner Vibe Coding para humanistas" style="width:100%; height:auto;"/>
+
 # Bienvenida
 
 ¡Bienvenidos al taller **Vibe Coding para humanistas** organizado por **iArtHisLab, Universidad de Málaga**!
