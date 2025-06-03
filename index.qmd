@@ -1,11 +1,10 @@
 ---
-title: "Vibe Coding para humanistas. Perdiendo el miedo a la IA"
 format: html
 toc: false
 ---
 
 <div style="text-align: center;">
-  <img src="images/banner.png" alt="Banner Vibe Coding para humanistas" style="width:100%; max-width: 100%; height: auto;"/>
+  <img src="images/banner.png" alt="Banner Vibe Coding para humanistas" style="width:100%; max-width: 100%; height: auto;">
 </div>
 
 # Bienvenida
