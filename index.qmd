@@ -1,6 +1,7 @@
 ---
 title: "Vibe Coding para humanistas. Perdiendo el miedo a la IA"
 format: html
+toc: false
 ---
 
 # Bienvenida
