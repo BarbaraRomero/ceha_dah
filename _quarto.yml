@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs  # esta línea para que se genere en la carpeta docs
+
+website:
+  title: "Vibe Coding para Humanistas"
+  navbar:
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Sobre nosotros"
+        href: sobre-nosotros.qmd
+      - text: "Materiales curso"
+        href: materiales-curso.qmd
+      - text: "Link para el curso"
+        href: link-curso.qmd
+format:
+  html:
+    theme: cosmo
+    toc: true

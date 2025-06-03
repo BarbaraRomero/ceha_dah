@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "link-curso.html",
+    "href": "link-curso.html",
+    "title": "Link para el curso",
+    "section": "",
+    "text": "👉 Únete al taller en Zoom\n\nMeeting ID: 923 7520 2704\n\nContraseña: 12345\n\n\n\n\nSi no quieres descargar la aplicación de Zoom, puedes acceder directamente desde tu navegador siguiendo estos pasos:\n1 - Haz clic en el enlace de zoom y copia y pega el Meeting ID, y la contraseña si fuese necesaria.\n2 - Cuando aparezca la ventana para “Abrir Zoom Meetings”, haz clic en “Cancelar” si no quieres usar la aplicación.\n3 - Debajo verás la opción “¿Problemas con la aplicación de Zoom? Únase desde su navegador” o un enlace que dice “Únase desde su navegador”. Haz clic allí.\n4 - Ingresa tu nombre y acepta los términos de uso.\n5 - Haz clic en “Unirse”.\n6 - Permite el uso de tu micrófono y cámara si es necesario.\n¡Y listo! Estarás dentro del taller usando solo tu navegador."
+  },
+  {
+    "objectID": "link-curso.html#guía-rápida-cómo-usar-zoom-desde-el-navegador",
+    "href": "link-curso.html#guía-rápida-cómo-usar-zoom-desde-el-navegador",
+    "title": "Link para el curso",
+    "section": "",
+    "text": "Si no quieres descargar la aplicación de Zoom, puedes acceder directamente desde tu navegador siguiendo estos pasos:\n1 - Haz clic en el enlace de zoom y copia y pega el Meeting ID, y la contraseña si fuese necesaria.\n2 - Cuando aparezca la ventana para “Abrir Zoom Meetings”, haz clic en “Cancelar” si no quieres usar la aplicación.\n3 - Debajo verás la opción “¿Problemas con la aplicación de Zoom? Únase desde su navegador” o un enlace que dice “Únase desde su navegador”. Haz clic allí.\n4 - Ingresa tu nombre y acepta los términos de uso.\n5 - Haz clic en “Unirse”.\n6 - Permite el uso de tu micrófono y cámara si es necesario.\n¡Y listo! Estarás dentro del taller usando solo tu navegador."
+  },
+  {
+    "objectID": "workshop_intro.html",
+    "href": "workshop_intro.html",
+    "title": "Taller CEHA-DAH",
+    "section": "",
+    "text": "Bienvenida\nEste es el cuaderno de Quarto para el taller de CEHA-DAH.\nAquí puedes añadir más contenido, como listas, enlaces, o imágenes.\n\n\nCódigo de ejemplo en Python\nprint(“¡Hola desde Quarto!”)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vibe Coding para humanistas. Perdiendo el miedo a la IA",
+    "section": "",
+    "text": "¡Bienvenidos al taller Vibe Coding para humanistas organizado por iArtHisLab, Universidad de Málaga!\nFecha: 5 de junio de 2025\nHorario: 16:00-18:00 – descanso – 18:30-20:30\nEste taller está diseñado especialmente para humanistas interesados en iniciarse en el uso de la IA generativa para análisis de datos, textos e imágenes.\nAunque se usará Python, no necesitas conocimientos previos de programación. Aprenderás a usar la IA como una herramienta accesible y útil.\n\n\nPor favor, regístrate para recibir la información y actualizaciones del curso:"
+  },
+  {
+    "objectID": "index.html#regístrate",
+    "href": "index.html#regístrate",
+    "title": "Vibe Coding para humanistas. Perdiendo el miedo a la IA",
+    "section": "",
+    "text": "Por favor, regístrate para recibir la información y actualizaciones del curso:"
+  }
+]
