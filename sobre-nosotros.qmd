@@ -3,8 +3,6 @@ title: "Sobre nosotros"
 format: html
 ---
 
-# Sobre el grupo de investigación
-
 El taller está organizado por **iArtHisLab** de la **Universidad de Málaga**, un grupo dedicado a la exploración de la intersección entre las humanidades digitales, la inteligencia artificial y el análisis crítico.
 
 - **Nuria Rodríguez Ortega**: catedrática de Historia del Arte en la Universidad de Málaga.  
