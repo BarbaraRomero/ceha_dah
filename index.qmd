@@ -7,7 +7,7 @@ toc: false
   <img src="images/banner.png" alt="Banner Vibe Coding para humanistas" style="width:100%; max-width: 100%; height: auto;">
 </div>
 
-¡Bienvenidos al taller **Vibe Coding para humanistas** organizado por **CEHA** y el grupo de investigación **iArtHisLab, Universidad de Málaga**!
+Bienvenidos al taller **Vibe Coding para humanistas** organizado por **CEHA** y el grupo de investigación **iArtHisLab, Universidad de Málaga**
 
 **Fecha:** 5 de junio de 2025  
 **Horario:** 16:00-18:00 – descanso – 18:30-20:30
