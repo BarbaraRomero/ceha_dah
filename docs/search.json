@@ -35,9 +35,16 @@
     "text": "Bienvenida\nEste es el cuaderno de Quarto para el taller de CEHA-DAH.\nAquí puedes añadir más contenido, como listas, enlaces, o imágenes.\n\n\nCódigo de ejemplo en Python\nprint(“¡Hola desde Quarto!”)"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vibe Coding para Humanistas",
+    "section": "",
+    "text": "¡Bienvenidos al taller Vibe Coding para humanistas organizado por iArtHisLab, Universidad de Málaga para CEHA!\nFecha: 5 de junio de 2025\nHorario: 16:00-18:00 – descanso – 18:30-20:30\nEste taller está diseñado especialmente para humanistas interesados en iniciarse en el uso de la IA generativa para análisis de datos, textos e imágenes.\nAunque se usará Python, no necesitas conocimientos previos de programación. Aprenderás a usar la IA como una herramienta accesible y útil."
+  },
+  {
     "objectID": "index.html#regístrate",
     "href": "index.html#regístrate",
-    "title": "Bienvenida",
+    "title": "Vibe Coding para Humanistas",
     "section": "Regístrate",
     "text": "Regístrate\nPor favor, regístrate para recibir la información y actualizaciones del curso: Formulario de Inscripción"
   }
