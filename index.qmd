@@ -3,8 +3,21 @@ format: html
 toc: false
 ---
 
-<div style="text-align: center;">
-  <img src="images/banner.png" alt="Banner Vibe Coding para humanistas" style="width:100%; max-width: 100%; height: auto;">
+<style>
+  .banner-container {
+    margin: 0;
+    padding: 0;
+  }
+
+  .banner-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+</style>
+
+<div class="banner-container">
+  <img src="images/banner.png" alt="Banner Vibe Coding para humanistas">
 </div>
 
 Bienvenidos al taller **Vibe Coding para humanistas** organizado por **CEHA** y el grupo de investigación **iArtHisLab, Universidad de Málaga**
