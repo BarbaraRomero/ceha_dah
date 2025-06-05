@@ -5,7 +5,7 @@ format: html
 
 # Accede al taller por Zoom
 
-👉 [Únete al taller en Zoom](https://app.zoom.us/wc/join)
+👉 [Únete al taller en Zoom](https://leuphana.zoom.us/j/92375202704?pwd=8W4eq0DwVDyrgJRraozHradiVd1xuN.1)
 
 - **Meeting ID:** 923 7520 2704  
 - **Contraseña:** 12345
